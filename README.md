@@ -1,5 +1,4 @@
-
-## Hi, I'm Julian
+### Hi, I'm Julian
 
 - Applied mathematician working on optimization and learning algorithms.
 Interested in numerical optimization, machine learning,
